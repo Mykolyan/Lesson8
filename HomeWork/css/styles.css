@@ -1,0 +1,18 @@
+body {
+    text-align: center;
+    background-color: rgba(0, 255, 238, 0.561);
+    color: rgb(156, 66, 27);
+}
+
+h1 {
+font-family: Cursive, sans-serif;
+font-size: 50px;
+letter-spacing: 2px;
+line-height: 1.5;
+}
+
+h2 {
+    text-align: right;
+    font-family: Impact, sans-serif;
+    font-size: 25px;
+}
